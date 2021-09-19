@@ -7,9 +7,10 @@ post video at 15/09/2563
 วิดีโอ
     https://www.youtube.com/watch?v=6zqBwR5Bnkk&ab_channel=WarapetchFreelanceProgramming
 
+![วิดีโอ](https://img.youtube.com/vi/6zqBwR5Bnkk/0.jpg)
+
 <!-- Corresponsing iframe markup copied from youtube embed of the corresponding video -->
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6zqBwR5Bnkk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 ## ต้องมีความรู้พื้นฐาน
 - Google Action Script GAS
