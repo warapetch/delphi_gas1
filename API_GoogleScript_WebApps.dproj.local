@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/06/15 10:26:00.000.847,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/06/21 10:32:38.000.226,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/09/03 09:51:49.000.177,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/09/03 09:52:45.000.232,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2020/09/03 09:52:49.000.437,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\ServerConst1.pas</Transaction>
+    <Transaction>2020/09/14 23:53:35.000.940,=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/09/15 00:25:18.000.405,E:\project code\@TEST CODE\API Get GAS\Unit1.dfm=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/09/15 00:25:18.000.405,E:\project code\@TEST CODE\API Get GAS\Unit1.pas=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/09/15 00:25:19.000.226,E:\project code\@TEST CODE\API Get GAS\Project1.dproj=C:\Users\Developer\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/09/15 12:04:05.000.903,E:\project code\@TEST CODE\API Get GAS\Project1.dproj=E:\project code\@TEST CODE\API Get GAS\API_GoogleScript_WebApps.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
