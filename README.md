@@ -1,5 +1,5 @@
 post video at 15/09/2563
-# Delphi  GAS-1
+# Delphi + Google Apps Script #1
 ## ทดสอบ Delphi access GAS (Google Apps Script) via WebApp
 
 วิดีโอ
