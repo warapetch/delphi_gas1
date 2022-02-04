@@ -1,10 +1,12 @@
+
 post video at 15/09/2563
 # Delphi + Google Apps Script #1
 ## ทดสอบ Delphi access GAS (Google Apps Script) via WebApp
 
 วิดีโอ
 เดลไฟ :: ทดลองเขียน WebAPP ผ่าน Google Apps Script + Google Sheet
-วิดีโอ \n https://www.youtube.com/watch?v=6zqBwR5Bnkk&ab_channel=WarapetchFreelanceProgramming
+
+https:/www.youtube.com/watch?v=6zqBwR5Bnkk&ab_channel=WarapetchFreelanceProgramming
 
 ![วิดีโอ](https://img.youtube.com/vi/6zqBwR5Bnkk/0.jpg)
 
