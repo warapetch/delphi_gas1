@@ -11,8 +11,6 @@ https://www.youtube.com/watch?v=6zqBwR5Bnkk&ab_channel=WarapetchFreelanceProgram
 
 [![cover](http://img.youtube.com/vi/6zqBwR5Bnkk/0.jpg)](http://www.youtube.com/watch?v=6zqBwR5Bnkk "Click to Play Video")
 
-<figure class="video_container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6zqBwR5Bnkk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## ต้องมีความรู้พื้นฐาน
 - Google Apps Script GAS
