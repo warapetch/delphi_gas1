@@ -5,7 +5,7 @@ post video at 15/09/2563
 วิดีโอ
 เดลไฟ :: ทดลองเขียน WebAPP ผ่าน Google Apps Script + Google Sheet
 วิดีโอ
-    https://www.youtube.com/watch?v=6zqBwR5Bnkk&ab_channel=WarapetchFreelanceProgramming
+    \n https://www.youtube.com/watch?v=6zqBwR5Bnkk&ab_channel=WarapetchFreelanceProgramming
 
 ![วิดีโอ](https://img.youtube.com/vi/6zqBwR5Bnkk/0.jpg)
 
@@ -13,7 +13,7 @@ post video at 15/09/2563
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6zqBwR5Bnkk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## ต้องมีความรู้พื้นฐาน
-- Google Action Script GAS
+- Google Apps Script GAS
 - Delphi
 - Internet , API
 
